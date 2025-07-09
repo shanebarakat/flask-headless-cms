@@ -7,7 +7,7 @@ import argparse
 import subprocess
 import shutil 
 import jinja2
-import codecs
+import codecs 
 
 from flask_headless_cms import constants
 from prompt_toolkit.validation import ValidationError, Validator
